@@ -1,5 +1,4 @@
-# Mobile Web Specialist Certification Course
----
+
 # Restaurant Reviews
 Restaurant Reviews project converted a static webpage to a mobile-ready web application and accessible for screen reader use. 
 Added a ServiceWorker script and MapBox API.
